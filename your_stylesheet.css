@@ -1,0 +1,41 @@
+
+
+
+    
+item {color:green;}
+md h3 {color:blue;}
+
+md.homepage h2 {
+    color: blue; 
+    font-size: 20; 
+    font-style: bold; 
+    font-family: sans-serif-light; 
+    margin-left:20; 
+}
+
+md.homepage {
+    margin-left:20; 
+    color:black; 
+    font-size: 16; 
+    font-style:  normal ; 
+    font-family: sans-serif-light; 
+    padding-left:20; 
+}
+
+
+menuitem {
+    color:green;
+}
+md.category { color:red; font-size: 16; font-style: bold; font-family: sans-serif-light; padding-left:12;}
+
+md.category ul { color:green; font-size: 1o; font-style: bold; font-family: sans-serif-light; line-space:10; }
+md.category b { color:purple; font-size: 1o; font-style: bold; font-family: sans-serif-light; line-space:10; }
+
+
+md.category h1 { color:purple; font-size: 14; font-style: bold; font-family: sans-serif-light; line-space:10; }
+md.category h2 { color:blue; font-size: 12; font-style: bold; font-family: sans-serif-light; line-space:10; }
+md.category h3 { color:green; font-size: 10; font-style: bold; font-family: sans-serif-light; line-space:10; }
+md.category h4 { color:yellow; font-size: 10; font-style: bold; font-family: sans-serif-light; line-space:10; }
+md.category h5 { color:orange; font-size: 10; font-style: bold; font-family: sans-serif-light; line-space:10; }
+
+

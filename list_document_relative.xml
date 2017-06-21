@@ -1,0 +1,16 @@
+<doc title = "List Document">    
+    <list>
+        <item layout="relative"
+              maxlines="10"
+              href="/fire_truck.xml">
+            <img url="/fire_truck.jpg"/>   
+            <md>Beverly Hills Fire Truck</md>
+        </item>
+        <item layout="relative"
+                maxlines="10"
+              href="/pier.xml">
+            <img url="/pier.jpg"/>   
+            <md>Santa Monica Pier</md>
+        </item>
+    </list>
+</doc>

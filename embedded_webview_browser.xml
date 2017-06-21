@@ -1,0 +1,17 @@
+<doc title = "Embedded HTML - External">    
+    <md><![CDATA[##Embedded HTML - links open in Browser]]></md> 
+    <webview warn="You are leaving biNu" target="browser" internal="false"> <![CDATA[
+    <h3>Example Form</h3>
+<form action="http://docs.skyball360.com/form.html">
+  First name:<br>
+  <input type="text" value="Dave">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Dee">
+  <br><br>
+  <input type="submit" value="Submit">
+</form>  
+]]>
+    </webview>
+    
+</doc>

@@ -1,0 +1,19 @@
+<doc title = "Homepage">      
+    <md style="homepage"><![CDATA[
+          
+## biNu Developer  
+  
+###Sample Application 1
+          
+This application showcases biNu v2.2 components.  
+    
+           
+**Choose components from the Drawer**
+        
+          
+          
+[Note this page loaded by default when the App starts]
+]]>
+    </md>
+    <img url="devphoto.png"/>  
+</doc>

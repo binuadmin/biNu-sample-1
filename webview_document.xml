@@ -1,0 +1,29 @@
+<doc title="Webview Examples">    
+    <list show="true" title="Webview Examples">
+        <item  
+            layout="relative"
+            href="linked_webview_binu.xml">
+            <img url="code.png"/>   
+            <md>LINKED HTML - BINU</md>
+        </item>
+        <item   
+            layout="relative"
+            href="linked_webview_browser.xml" >
+            <img url="code.png"/>   
+            <md>LINKED HTML - BROWSER</md>
+            </item>
+        <item  
+            layout="relative"
+            href="embedded_webview_binu.xml">
+            <img url="code.png"/>   
+            <md>EMBEDDED HTML - INTERNAL</md>
+            </item>
+        <item   
+            layout="relative"
+            href="embedded_webview_browser.xml" >
+            <img url="code.png"/>   
+            <md>EMBEDDED HTML - BROWSER</md>
+            </item>
+    </list>
+</doc>
+
