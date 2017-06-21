@@ -1,0 +1,27 @@
+<app title="Sample Application 1" styleurl="your_stylesheet.css">
+    <drawer>
+        
+        <menuitem img="home.png" 
+                  href="homepage.xml"
+                  default="true">Homepage</menuitem>
+        <menuitem img="list.png" 
+                  href="list_document_relative.xml">Relative List</menuitem>
+        <menuitem img="tabs.png" 
+                  href="tab_document.xml" >Tab Example</menuitem>
+        <menuitem img="code.png" 
+                  href="markdown_document.xml">Markdown Example</menuitem>
+        <menuitem img="code.png" 
+                  href="linked_webview_binu.xml">Webview - HREF link - Internal</menuitem>
+        <menuitem img="code.png" 
+                  href="linked_webview_browser.xml">Webview - HREF link - External</menuitem>
+        <menuitem img="code.png" 
+                  href="embedded_webview_binu.xml">Webview - Embedded HTML - Internal</menuitem>
+        <menuitem img="code.png" 
+                     href="embedded_webview_browser.xml">Webview - Embedded HTML - External</menuitem>       
+    </drawer>    
+    <menu>
+        <menuitem action="usage">About</menuitem>
+        <menuitem action="share">Share App</menuitem>
+        <menuitem action="rate">Rate App</menuitem>
+    </menu>
+</app>
