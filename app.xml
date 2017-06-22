@@ -6,17 +6,17 @@
                   default="true">Homepage</menuitem>
         <menuitem img="/sample1/list.png" 
                   href="/sample1/list_document_relative.xml">Relative List</menuitem>
-        <menuitem img="tabs.png" 
-                  href="tab_document.xml" >Tab Example</menuitem>
-        <menuitem img="code.png" 
+        <menuitem img="/sample1/tabs.png" 
+                  href="/sample1/tab_document.xml" >Tab Example</menuitem>
+        <menuitem img="/sample1/code.png" 
                   href="/sample1/markdown_document.xml">Markdown Example</menuitem>
-        <menuitem img="code.png" 
+        <menuitem img="/sample1/code.png" 
                   href="/sample1/linked_webview_binu.xml">Webview - HREF link - Internal</menuitem>
-        <menuitem img="code.png" 
+        <menuitem img="/sample1/code.png" 
                   href="/sample1/linked_webview_browser.xml">Webview - HREF link - External</menuitem>
-        <menuitem img="code.png" 
+        <menuitem img="/sample1/code.png" 
                   href="/sample1/embedded_webview_binu.xml">Webview - Embedded HTML - Internal</menuitem>
-        <menuitem img="code.png" 
+        <menuitem img="/sample1/code.png" 
                      href="/sample1/embedded_webview_browser.xml">Webview - Embedded HTML - External</menuitem>       
     </drawer>    
     <menu>
