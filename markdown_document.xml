@@ -14,7 +14,7 @@ Image is a <img> tag in the XML
 ]]>
             </md>
 
-            <img url="/fire_truck.jpg" /> 
+            <img url="fire_truck.jpg" /> 
              
             <md><![CDATA[
 ---
@@ -23,7 +23,7 @@ This is the *Santa Monica* Pier
                 
 Image is an image tag in the Markdown code                 
                 
-![image](/pier.jpg)  
+![image](pier.jpg)  
 ]]>            
             </md>
 

@@ -2,7 +2,7 @@
     <md><![CDATA[##Embedded HTML - links open in biNu]]></md> 
     <webview internal="true" target="binu"  > <![CDATA[
     <h3>Example Form ->internal</h3>
-<form action="http://docs.skyball360.com/form.html">
+<form action="sample1/form.html">
   First name:<br>
   <input type="text" value="Dave">
   <br>

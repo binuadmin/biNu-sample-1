@@ -1,5 +1,5 @@
 <doc title = "Linked Webview to Browser">  
     <md><![CDATA[##href link - links open in browser]]></md> 
-  <webview href="http://docs.skyball360.com/page1.html" baseurl="http://docs.skyball360.com" internal="false" target="browser">
+  <webview href="http://dev.bi.nu/sample1/page1.html" baseurl="http://dev.bi.nu/sample1" internal="false" target="browser">
     </webview>
 </doc>
