@@ -15,5 +15,5 @@ This application showcases biNu v2.2 components.
 [Note this page loaded by default when the App starts]
 ]]>
     </md>
-    <img url="devphoto.png"/>  
+    <img url="/sample1/devphoto.png"/>  
 </doc>

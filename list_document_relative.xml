@@ -2,14 +2,14 @@
     <list>
         <item layout="relative"
               maxlines="10"
-              href="/fire_truck.xml">
-            <img url="/fire_truck.jpg"/>   
+              href="/sample1/fire_truck.xml">
+            <img src="/sample1/fire_truck.jpg"/>   
             <md>Beverly Hills Fire Truck</md>
         </item>
         <item layout="relative"
                 maxlines="10"
-              href="/pier.xml">
-            <img url="/pier.jpg"/>   
+              href="/sample1/pier.xml">
+            <img src="/sample1/pier.jpg"/>   
             <md>Santa Monica Pier</md>
         </item>
     </list>

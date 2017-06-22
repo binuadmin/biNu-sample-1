@@ -1,8 +1,8 @@
 <doc title="Tabbed Document">    
     <tabs show="true" title="tabs">
-        <MenuItem  href="fire_truck.xml">Fire Truck</MenuItem>
-        <MenuItem  href="pier.xml" >Pier</MenuItem>
-         <MenuItem href="list_document_linear.xml">Linear List</MenuItem>
+        <MenuItem  href="/sample1/fire_truck.xml">Fire Truck</MenuItem>
+        <MenuItem  href="/sample1/pier.xml" >Pier</MenuItem>
+         <MenuItem href="/sample1/list_document_linear.xml">Linear List</MenuItem>
     </tabs>
 </doc>
 
