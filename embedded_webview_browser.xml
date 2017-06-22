@@ -2,7 +2,7 @@
     <md><![CDATA[##Embedded HTML - links open in Browser]]></md> 
     <webview  internal="false"> <![CDATA[
     <h3>Example Form</h3>
-<form action="http://dev.bi.nu/sample1/form.html">
+<form action="http://dev.bi.nu/sample1/form2.html">
   First name:<br>
   <input type="text" value="Dave">
   <br>
