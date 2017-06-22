@@ -1,4 +1,9 @@
 <doc title = "Fire Truck">    
-    <md>Beverly Hills Fire Truck</md>
-    <img src="/sample1/fire_truck.jpg"/>    	
+    <md>Beverly Hills Fire Truck  
+    Note the share icon for this document</md>
+    <img src="/sample1/fire_truck.jpg"/>    
+    <share action="send" title="Fire Truck" 
+                   text="Shared by biBu Sample App , check out this great product http://dev.bi.nu/sample1/fire_truck.jpg"  
+                   subject="biNu Developer"
+    /> 	
 </doc>

@@ -1,22 +1,22 @@
 <doc title = "Markdown Document">    
-                <md><![CDATA[
+    <md><![CDATA[
 Google link as a Markdown link
-                      
+               
 [Go to Google](https://www.google.com "Google's Homepage") 
 ]]>
-            </md>
+    </md>
               
-            <md><![CDATA[
+    <md><![CDATA[
 ## Beverly Hills Fire Truck  
 This is a __Beverly Hills__ Fire Truck   
   
 Image is a <img> tag in the XML
 ]]>
-            </md>
+    </md>
 
-            <img url="/sample1/fire_truck.jpg" /> 
+    <img url="/sample1/fire_truck.jpg" /> 
              
-            <md><![CDATA[
+    <md><![CDATA[
 ---
 ## Santa Monica Pier   
 This is the *Santa Monica* Pier   
@@ -25,7 +25,7 @@ Image is an image tag in the Markdown code
                 
 ![image](/sample1/pier.jpg)  
 ]]>            
-            </md>
+    </md>
 
 
             
