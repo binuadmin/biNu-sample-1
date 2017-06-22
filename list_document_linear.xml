@@ -3,7 +3,7 @@
         <item layout="linear"
               maxlines="10"
               href="/sample1/fire_truck.xml">
-            <img src="vfire_truck.jpg"/>   
+            <img src="/sample1/fire_truck.jpg"/>   
             <md>Beverly Hills Fire Truck</md>
         </item>
         <item layout="linear"
