@@ -1,4 +1,4 @@
-<app title="Sample Application 1" styleurl="your_stylesheet.css">
+<app title="Sample Application 1" styleurl="/sample1/your_stylesheet.css">
     <drawer>
         
         <menuitem img="/sample1/home.png" 
@@ -17,11 +17,15 @@
         <menuitem img="/sample1/code.png" 
                   href="/sample1/embedded_webview_binu.xml">Webview - Embedded HTML - Internal</menuitem>
         <menuitem img="/sample1/code.png" 
-                     href="/sample1/embedded_webview_browser.xml">Webview - Embedded HTML - External</menuitem>       
+                  href="/sample1/embedded_webview_browser.xml">Webview - Embedded HTML - External</menuitem>       
     </drawer>    
     <menu>
         <menuitem action="usage">About</menuitem>
         <menuitem action="share">Share App</menuitem>
         <menuitem action="rate">Rate App</menuitem>
     </menu>
+    <share action="send" title="biNu" 
+               text="Shared by biBu Sample App , check out this great product http://www.bi.nu"  
+               subject="biNu Developer"
+    />
 </app>

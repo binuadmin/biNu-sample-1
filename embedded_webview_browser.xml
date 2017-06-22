@@ -1,8 +1,8 @@
 <doc title = "Embedded HTML - External">    
     <md><![CDATA[##Embedded HTML - links open in Browser]]></md> 
-    <webview warn="You are leaving biNu" target="browser" internal="false"> <![CDATA[
+    <webview  internal="false"> <![CDATA[
     <h3>Example Form</h3>
-<form action="/sample1/form.html">
+<form action="http://dev.bi.nu/sample1/form.html">
   First name:<br>
   <input type="text" value="Dave">
   <br>

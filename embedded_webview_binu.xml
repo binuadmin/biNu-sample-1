@@ -1,8 +1,8 @@
 <doc title = "Embedded HTML - Internal">    
     <md><![CDATA[##Embedded HTML - links open in biNu]]></md> 
-    <webview internal="true" target="binu"  > <![CDATA[
+    <webview internal="true"  > <![CDATA[
     <h3>Example Form ->internal</h3>
-<form action="/sample1/form.html">
+<form action="http://dev.bi.nu/sample1/form.html">
   First name:<br>
   <input type="text" value="Dave">
   <br>
