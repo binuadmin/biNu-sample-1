@@ -11,7 +11,7 @@
         <menuitem img="/sample1/code.png" 
                   href="/sample1/markdown_document.xml">Markdown Example</menuitem>
         <menuitem img="/sample1/code.png" 
-                  href="/sample1/linked_webview_binu.xml">Webview - HREF link - Internal</menuitem>
+                  href="/sample1/linked_webview_binu_1.xml">Webview - HREF link - Internal</menuitem>
         <menuitem img="/sample1/code.png" 
                   href="/sample1/linked_webview_browser.xml">Webview - HREF link - External</menuitem>
         <menuitem img="/sample1/code.png" 

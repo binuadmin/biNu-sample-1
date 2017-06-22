@@ -1,0 +1,5 @@
+<doc title = "Linked Webview stay in biNu">    
+    <md><![CDATA[##href link - links open in biNu]]></md> 
+    <webview href="http://dev.bi.nu/sample1/page1.html" internal="true" >
+    </webview>
+</doc>
