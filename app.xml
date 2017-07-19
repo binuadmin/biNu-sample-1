@@ -1,6 +1,5 @@
 <app title="Sample Application 1" styleurl="/sample1/your_stylesheet.css">
     <drawer>
-        
         <menuitem img="/sample1/home.png" 
                   href="/sample1/homepage.xml"
                   default="true">Homepage</menuitem>
